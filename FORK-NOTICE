@@ -1,0 +1,46 @@
+# Fork Notice: Origins-Reborn (Folia Fork)
+
+This repository is a fork of the **Origins-Reborn** plugin by Arun Kapila (GitHub: [cometcake575](https://github.com/cometcake575)).
+
+---
+
+## Permission to Fork
+
+This fork was created with **explicit written permission** from Arun Kapila, who retains full rights over all original code.
+
+The following message was received from Arun regarding licensing:
+
+> "Sure, as long as you make sure to include the information about the licensing for the code (though you can license your own changes however you want) and provide credit, that's ok."
+
+This permission allows for:
+- Creating a private fork
+- Modifying the code for Folia compatibility
+- Licensing my own changes independently (see `LICENSE`)
+- Distributing the fork code **only in private or controlled contexts**
+
+This repository is **not** affiliated with or endorsed by Arun Kapila or the Origins-Reborn project.
+
+---
+
+## License Separation
+
+This repo contains two distinct codebases:
+
+### 1. **Original Code by Arun Kapila (`cometcake575`)**
+- © 2025 Arun Kapila – All Rights Reserved
+- Not open source, not MIT-licensed
+- Reproduced here with permission
+- Covered in [ORIGINAL-LICENSE](./ORIGINAL-LICENSE)
+
+### 2. **Modifications by Kohan Mathers**
+- © 2025 Kohan Mathers – Licensed under the MIT License
+- Covered in [LICENSE](./LICENSE)
+- Includes all changes made after commit `a1cd919`
+
+---
+
+## Attribution
+
+This fork is based on *Origins-Reborn* by Arun Kapila (`cometcake575`) and includes visual assets from the *Origins* mod by [apace100](https://github.com/apace100), used under the MIT License.
+
+Full license terms and attribution are preserved in `ORIGINAL-LICENSE`.
